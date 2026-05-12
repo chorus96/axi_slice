@@ -2,7 +2,7 @@ package:
   name: axi_slice
 
 dependencies:
-  common_cells: { git: "https://github.com/pulp-platform/common_cells.git", version: 1.7.4 }
+  common_cells: { git: "https://github.com/chorus96/common_cells.git", version: 1.40.0 }
 
 sources:
   - src/axi_single_slice.sv
